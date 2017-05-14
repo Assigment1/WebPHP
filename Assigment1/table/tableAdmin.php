@@ -23,6 +23,45 @@
             
             <td>ke toan</td>
             <td>TP HỒ CHÍ Minh</td>
+            <td>50000</td>
+            <td>ms1001</td>
+            <td>truong phong</td>
+            <td>
+                <button class="btn btn-primary" data-toggle="modal" data-target="#myEdit">Edit</button>
+                
+                <button class="btn btn-danger">Delete</button>
+            </td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>nguyen van a</td>
+            <td>04/06/1996</td>
+            <td>aasasdasdasdasdad@a.com</td>
+            
+            <td>ke toan</td>
+            <td>TP HỒ CHÍ Minh</td>
+            <td>500000</td>
+            <td>ms1001</td>
+            <td>truong phong</td>
+            <td>
+                <button class="btn btn-primary" data-toggle="modal" data-target="#myEdit">Edit</button>
+                
+                <button class="btn btn-danger">Delete</button>
+            </td>
+        </tr>
+<<<<<<< HEAD
+         <tr>
+=======
+        <tr>
+>>>>>>> refs/remotes/origin/loi
+            <td>1</td>
+            <td>nguyen van a</td>
+            <td>04/06/1996</td>
+            <td>aasasdasdasdasdad@a.com</td>
+            
+            <td>ke toan</td>
+            <td>TP HỒ CHÍ Minh</td>
+<<<<<<< HEAD
             <td>500000</td>
             <td>ms1001</td>
             <td>truong phong</td>
@@ -41,23 +80,9 @@
             <td>ke toan</td>
             <td>TP HỒ CHÍ Minh</td>
             <td>500000</td>
-            <td>ms1001</td>
-            <td>truong phong</td>
-            <td>
-                <button class="btn btn-primary" data-toggle="modal" data-target="#myEdit">Edit</button>
-                
-                <button class="btn btn-danger">Delete</button>
-            </td>
-        </tr>
-         <tr>
-            <td>1</td>
-            <td>nguyen van a</td>
-            <td>04/06/1996</td>
-            <td>aasasdasdasdasdad@a.com</td>
-            
-            <td>ke toan</td>
-            <td>TP HỒ CHÍ Minh</td>
-            <td>500000</td>
+=======
+            <td>50000</td>
+>>>>>>> refs/remotes/origin/loi
             <td>ms1001</td>
             <td>truong phong</td>
             <td>
