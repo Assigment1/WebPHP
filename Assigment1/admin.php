@@ -74,7 +74,7 @@ and open the template in the editor.
         
         <!--footer-->
         <nav class="nav navbar-inverse navbar-fixed-bottom">
-            <a><center>editor's Loi</center></a>
+            <a><center>editor's Lois</center></a>
         </nav>
 
 
