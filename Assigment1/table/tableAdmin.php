@@ -15,7 +15,7 @@
 
     </thead>
     <tbody>
-        <tr>
+        <tr ng-repeat="n in NV|filter:txtSearch">
             <td>1</td>
             <td>nguyen van a</td>
             <td>04/06/1996</td>

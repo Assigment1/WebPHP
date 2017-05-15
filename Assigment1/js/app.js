@@ -1,7 +1,7 @@
 
 
 var myAdmin = angular.module("myAdmin",[]);
-myAdmin.controller("myControllerTab",function($scope){
+myAdmin.controller("myControllerTab",function($scope,$http){
     $scope.listselect = true;
    $scope.click = function (click) {
         if (click == 'list') {
@@ -15,6 +15,14 @@ myAdmin.controller("myControllerTab",function($scope){
             $('#list').removeClass('active');
         }
     }
+    
+    function getAllnhanvien()
+    {
+        $http.post("./database/getAllnhanvien.php").then(function(data){
+            $scope.NV=data.data;
+        });
+        
+    };
 });
 
 var myPhongban = angular.module("myPhongban",[]);

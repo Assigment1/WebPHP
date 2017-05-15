@@ -49,7 +49,7 @@ and open the template in the editor.
                     <form class="form-inline">
                         <div class="form-group">
                             <label for="email">Filter:</label>
-                            <input type="text" class="form-control"  id="seach" placeholder="seach name ...." id="myInput" onkeyup="myFunction()" >
+                            <input type="text" class="form-control" ng-model="txtSearch" id="seach" placeholder="seach name ...." id="myInput" onkeyup="myFunction()" >
                         </div>                    
                       
                     </form>
